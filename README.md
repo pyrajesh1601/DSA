@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/pyrajesh1601/DSA/tree/master/0013-roman-to-integer) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/pyrajesh1601/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Sorting
 |  |
@@ -17,4 +18,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/pyrajesh1601/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+## Math
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/pyrajesh1601/DSA/tree/master/0013-roman-to-integer) |
+## String
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/pyrajesh1601/DSA/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
