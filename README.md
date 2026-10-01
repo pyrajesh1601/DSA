@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0475-heaters](https://github.com/pyrajesh1601/DSA/tree/master/0475-heaters) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/pyrajesh1601/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Hash Table
 |  |
@@ -13,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0475-heaters](https://github.com/pyrajesh1601/DSA/tree/master/0475-heaters) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/pyrajesh1601/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Counting Sort
 |  |
@@ -30,8 +32,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/pyrajesh1601/DSA/tree/master/0278-first-bad-version) |
+| [0475-heaters](https://github.com/pyrajesh1601/DSA/tree/master/0475-heaters) |
 ## Interactive
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/pyrajesh1601/DSA/tree/master/0278-first-bad-version) |
+## Two Pointers
+|  |
+| ------- |
+| [0475-heaters](https://github.com/pyrajesh1601/DSA/tree/master/0475-heaters) |
 <!---LeetCode Topics End-->
